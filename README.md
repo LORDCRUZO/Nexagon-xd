@@ -1,6 +1,6 @@
-<a><img src='https://i.imgur.com/6Ty8MPT.jpeg'/></a>
-## Zeta-XD Whatsapp Bot
-Zeta-XD - Simple whatsapp Multi Device bot based on 
+<a><img src='https://i.imgur.com/jWzvEpb.jpeg'/></a>
+## Nexagon-xd Whatsapp Bot
+Nexagon-xd - Simple whatsapp Multi Device bot based on 
 Xasena 
 
 ``` Full Open Source```
@@ -32,7 +32,7 @@ Xasena
 
 ***
 * Join Group For Help
-<a href="https://chat.whatsapp.com/BxNvOg51FYk2Q2JYmfogCm"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-black?style=for-the-badge&logo=whatsapp&logoColor=green"/></a>
+<a href="https://chat.whatsapp.com/FGAlOlw0Opk0YSeMCxkX5w"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-black?style=for-the-badge&logo=whatsapp&logoColor=green"/></a>
 
 
 
