@@ -228,17 +228,17 @@ Description: ${i.desc}\`\`\``);
         .split(",");
         let usern = message.pushName
         const readMore = String.fromCharCode(8206).repeat(4001);
-      let menu = `\n╔┉┉┉〔 ${BOT_INFO.split(";")[0]} 〕┉┉┉┉┉⚇
-    ╔┅┅┅┅┅┅┅┅┅┅┅┅⚅
-  ⚈ ┋ *OWNER*: ${BOT_INFO.split(";")[1]}
-  ⚈ ┋ *USER*: ${usern}
-  ⚈ ┋ *DATE*: ${date}
-  ⚈ ┋ *TIME*: ${time}
-  ⚈ ┋ *COMMANDS*: ${plugins.commands.length}
-  ⚈ ┋ *MODE*: ${config.WORK_TYPE}
-  ⚈ ┋ *PREFIX*: ${config.HANDLERS}
-  ⚈ ┋ *VERSION*: ${require("../package.json").version}
-    ╚┅┅┅┅┅┅┅┅┅┅┅┅⚅
+      let menu = `\n┌───〔 ${BOT_INFO.split(";")[0]} 〕─────⚶
+    ╔════════════𖥘
+  ⸸ │ *OWNER*: ${BOT_INFO.split(";")[1]}
+  ⸸ │ *USER*: ${usern}
+  ⸸ │ *DATE*: ${date}
+  ⸸ │ *TIME*: ${time}
+  ⸸ │ *COMMANDS*: ${plugins.commands.length}
+  ⸸ │ *MODE*: ${config.WORK_TYPE}
+  ⸸ │ *PREFIX*: ${config.HANDLERS}
+  ⸸ │ *VERSION*: ${require("../package.json").version}
+    ╚════════════𖥘
 ╚┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉⚇\n ${readMore}\n╔┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄⛒`;
 
       let cmnd = [];
@@ -325,7 +325,7 @@ command(
       if (desc) menu += `\n│  Use: \`\`\`${desc}\`\`\``;
       menu += `\n│\n`;
     });
-    menu += `╰───────┈┫「 𝐙𝐄𝐓𝐀-𝐗𝐃-𝐁𝐎𝐓 」┣┈────♡`;
+    menu += `╰───────┈┫「 NeXagon-Md 」┣┈────♡`;
     return await message.reply(message.jid, { text: (tiny(menu)) })
 })
 
