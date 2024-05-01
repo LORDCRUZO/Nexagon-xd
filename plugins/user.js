@@ -265,7 +265,7 @@ Description: ${i.desc}\`\`\``);
         menu += `\n   ╔┴────────────┈⚆`;
         let comad = cmnd.filter(({ type }) => type == cmmd);
         comad.forEach(({ cmd }) => {
-          menu += `\n   ✇  ${cmd.trim()}`;
+          menu += `\n   ⸙  ${cmd.trim()}`;
         });
         menu += `\n   ╚─────────────┈⚆`;
       });
@@ -278,7 +278,7 @@ menu += `\n╚┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄⛒`;
       isForwarded: true,
       forwardedNewsletterMessageInfo: {
       newsletterJid: '120363239634100086@newsletter',
-      newsletterName: "𝗭𝗲𝘁𝗮-𝗫𝗗 ⛮",
+      newsletterName: "𝜨𝜠𝜲𝜦𝑮𝜪𝜨  𝜲𝑫",
       serverMessageId: -1
             }}, caption: (penu)}, {quoted: message })
     }
@@ -325,7 +325,7 @@ command(
       if (desc) menu += `\n│  Use: \`\`\`${desc}\`\`\``;
       menu += `\n│\n`;
     });
-    menu += `╰───────┈┫「 NeXagon-Md 」┣┈────♡`;
+    menu += `╰───────┈┫「 𝜨𝜠𝜲𝜦𝑮𝜪𝜨  𝜲𝑫 」┣┈────♡`;
     return await message.reply(message.jid, { text: (tiny(menu)) })
 })
 
