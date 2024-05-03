@@ -14,7 +14,7 @@ Xasena
 <a href='https://github.com/LORDCRUZO/Nexagon-xd/fork' target="_blank"><img alt='FORK' src='https://img.shields.io/badge/fork-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black'/></a>
 2. Get Session I'D.
     <br>
-<a href='https://www.badan-ser.xyz' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/get_session-100000?style=for-the-badge&logo=codeium&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://nexagon-qr-57be7dc9064a.herokuapp.com/' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/get_session-100000?style=for-the-badge&logo=codeium&logoColor=white&labelColor=black&color=black'/></a>
 
 ***
 ### Deploy
