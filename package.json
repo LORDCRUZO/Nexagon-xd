@@ -9,22 +9,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Zeta-XD/ezraa.git"
+    "url": "git+https://github.com/LORDCRUZO/Nexagon-xd.git"
   },
   "keywords": [
     "bot",
     "ai",
-    "Ezra",
-    "Zeta",
+    "LORDCRUZO",
+    "Nexagon-xd",
     "sparkyapi"
   ],
-  "author": "Zeta-XD",
-  "developer": "Zeta",
+  "author": "Nexagon-xd",
+  "developer": "Nexagon",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/Zeta-XD/ezraa/issues"
+    "url": "https://github.com/LORDCRUZO/Nexagon-xd/issues"
   },
-  "homepage": "https://github.com/Zeta-XD/ezraa#readme",
+  "homepage": "https://github.com/LORDCRUZO/Nexagon-xd#readme",
   "dependencies": {
     "@whiskeysockets/baileys": "^6.6.0",
     "@adiwajshing/keyed-db": "^0.2.4",
